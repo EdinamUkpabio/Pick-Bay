@@ -1,5 +1,7 @@
 # Interfaces
 ![interface](https://github.com/EdinamUkpabio/Pick-Bay/blob/main/readmee.png)
+![interface](https://github.com/EdinamUkpabio/Pick-Bay/blob/main/readme.png)
+
 
 ## Introduction
 Our project is a user-friendly car rental website, skillfully developed using HTML, CSS, JavaScript (frontend), 
