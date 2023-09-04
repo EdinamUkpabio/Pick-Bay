@@ -6,7 +6,7 @@
 
 
 ## Introduction
-Our project is a user-friendly car rental website, skillfully developed using HTML, CSS, JavaScript (frontend), 
+This project is a user-friendly car rental website application, skillfully developed by Edinam Ukpabio using HTML, CSS, JavaScript (frontend), 
 and PHP (backend). It offers a seamless experience for users to select and reserve rental cars efficiently. 
 With diverse vehicle options, an intuitive interface, and key features like contact, services, and user feedback, 
 it simplifies car rental.
